@@ -1,2 +1,2 @@
 # ClueExampleWIP
-a palce to gather example WIP for CLUE / kitronik accessories
+a place to gather example WIP for CLUE / kitronik accessories
